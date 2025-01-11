@@ -1,0 +1,12 @@
+/*
+ * This is a Main Design Stylesheet of the Webiste
+*/
+
+header{
+  padding: 20px 0;
+  background-color: pink;
+}
+footer{
+  padding: 20px 0;
+  background-color: skyblue;
+}
